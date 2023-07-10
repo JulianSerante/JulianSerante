@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **more about Next.JS and Redux Toolkit**
 
+- 🌎 I really want to expand my world **and learn more about the technologies that are generally used today.**
+
+- I cannot made a decision about what part of the development i prefer as i really feel comfortable working at the front-end, at the back-end and with the database.
+
 - 💬 Ask me about **React, Next.JS 13, Redux, Express, Node JS, PostgreSQL and MongoDB**
 
 - 📫 How to reach me **julian.serante@gmail.com**
@@ -14,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juli%c3%a1n-agust%c3%adn-serante-742436124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juli%c3%a1n-agust%c3%adn-serante-742436124/" height="30" width="40" /></a>
-<a href="https://instagram.com/juls_serante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juls_serante" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
