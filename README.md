@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **julian.serante@gmail.com**
 
-- ⚡ Random fact: **I am a Star Wars fan and the 'Hello there!' written at the beggining its related with Obi-Wan Kenobi's surprise entrance in Episode III. The answer to this has to be 'General Kenobi!' like General Grievous said as response.**
+- ⚡ Random fact: I am a Star Wars fan and the 'Hello there!' written at the beggining its related with Obi-Wan Kenobi's surprise entrance in Episode III. The answer to this has to be 'General Kenobi!' like General Grievous said as response.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
