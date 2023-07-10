@@ -9,7 +9,7 @@
 
 - 🌐                                                     [Pokedex 2.0 _ Client side:](https://github.com/JulianSerante/Pokemon-Client-app)
 
-- earth_americas I really want to expand my world and learn more about the technologies that are generally used today.
+- 🌎 I really want to expand my world and learn more about the technologies that are generally used today.
 
 - 🧐 I cannot made a decision about what part of the development i prefer as i really feel comfortable working at the front-end, at the back-end and with the database.
 
