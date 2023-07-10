@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning more about **Next.JS and Redux Toolkit**
 
-- 🌐 I've also made Pokémon App as an individual proyect [Pokedex 2.0 _ Server side:](https://github.com/JulianSerante/Pokemon-Api-app)
+- 🌐 I've also made a Pokémon App as an individual proyect:  [Pokedex 2.0 _ Server side:](https://github.com/JulianSerante/Pokemon-Api-app)
 
-- 🌐                                                     [Pokedex 2.0 _ Client side:](https://github.com/JulianSerante/Pokemon-Client-app)
+- 🌐                                                         [Pokedex 2.0 _ Client side:](https://github.com/JulianSerante/Pokemon-Client-app)
 
 - 🌎 I really want to expand my world and learn more about the technologies that are generally used today.
 
